@@ -1,8 +1,8 @@
 # Projects 
 
-## Resort Management System
+* Resort Management System
 
-## Simulation of the word game- 'Cows and Bulls':
+* Simulation of the word game- 'Cows and Bulls':
 This version is usually played orally, but is easier to play if each player (or each team) keeps written notes. It is exactly like the numerical version except instead of 4-digit numbers, 4-letter words are used. They must be real words, according to whatever language or languages you are playing the game in. Alternate versions of the game can be played with 3-letter or 5-letter words, but the 4-letter version is the most popular. Several versions of this game are available for Computer & Mobile devices. The first official massively multiplayer (MMO) version of this game was first made available for Android devices under the name WORD - Multiplayer Word Game. The Game play for letter version of this game is as follows.
 
 A person (Host) thinks of any isogram word, and gives out the number of letters in the word.
